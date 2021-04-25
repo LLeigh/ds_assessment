@@ -7,7 +7,6 @@
         <p class="tutor-info">{{tutor.grades}}</p>  
         <p class="tutor-info">{{tutor.subjects}}</p>
       </div>
-
   </div>
 </template>
 
@@ -16,9 +15,7 @@ export default {
     name: 'tutor-card',
     props: {
         tutor: Object,
-
     }
-
 }
 </script>
 
@@ -26,21 +23,29 @@ export default {
 .vericon {
     background-color:rgb(255, 250, 250, 75%);
     position: relative;
-    border-top-right-radius: 30% ;
+    border-top-right-radius: 40% ;
     margin-bottom: -87px;
-    margin-right: -35px;
-    padding: 8px;
+    margin-right: -40px;
+    padding: 10px;
+    width: 40px;
 }
+
 .tutor-name {
     color: #499FF6;
     font-size: 1rem;
     font-weight: 600;
-    
+    padding-top: 5px;
+    margin-bottom: -2px;
 }
+
 .tutor-info {
     color: #707070;
     font-size: .5rem;
-    line-height: 0px;
-    
+    margin: 1px;
 }
+
+.tutor-tile {
+    padding-bottom: 25px;
+}
+
 </style>

@@ -25,7 +25,7 @@ export default new Vuex.Store({
         subjects: "Math, Science",
         verified: true,
         about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.",
-        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - McDonald’s - Lead Fry Cook"],
+        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - Burger King’s - Lead Fry Cook"],
         certifications: ["Child Safety Check - PA - Passed", "COVID - NEGATIVE"],
       },
       {
@@ -36,7 +36,7 @@ export default new Vuex.Store({
         subjects: "Math, Science",
         verified: true,
         about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.",
-        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - McDonald’s - Lead Fry Cook"],
+        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - Taco Bells’s - Lead Taco Cook"],
         certifications: ["Child Safety Check - PA - Passed", "COVID - NEGATIVE"],
       },
       {
@@ -47,7 +47,7 @@ export default new Vuex.Store({
         subjects: "Math, Science",
         verified: true,
         about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.",
-        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - McDonald’s - Lead Fry Cook"],
+        resume: ["2010 Penn State - Math Major", "2014 University of California - Doctorate of Math", "2018 - In-and-Out’s - Lead Fry Cook"],
         certifications: ["Child Safety Check - PA - Passed", "COVID - NEGATIVE"],
       },
       {
@@ -58,7 +58,7 @@ export default new Vuex.Store({
         subjects: "English",
         verified: true,
         about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.",
-        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - McDonald’s - Lead Fry Cook"],
+        resume: ["2010 Penn State - English Major", "2014 University of Texas - Doctorate of English", "2018 - Wendy’s - Lead Fry Cook"],
         certifications: ["Child Safety Check - PA - Passed", "COVID - NEGATIVE"],
       },
       {
@@ -69,7 +69,7 @@ export default new Vuex.Store({
         subjects: "Math, Science",
         verified: true,
         about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.",
-        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - McDonald’s - Lead Fry Cook"],
+        resume: ["2010 Penn State - Math Major", "2014 University of Texas - Doctorate of Math", "2018 - Arby’s - Lead Fry Cook"],
         certifications: ["Child Safety Check - PA - Passed", "COVID - NEGATIVE"],
       }
     ]
